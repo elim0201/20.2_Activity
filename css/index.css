@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap');
+
 footer {
   position: absolute;
   width: 100%;
@@ -18,7 +20,8 @@ footer {
 
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'anton', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: bold;
 }
 
 p {
